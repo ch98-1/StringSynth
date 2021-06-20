@@ -1,0 +1,2 @@
+# StringSynth
+String instrument synthesizer 
